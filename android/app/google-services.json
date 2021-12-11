@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588239855991",
+    "project_id": "aaah-chat",
+    "storage_bucket": "aaah-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588239855991:android:c62d44c1e8621e1054c172",
+        "android_client_info": {
+          "package_name": "com.vanitexgames.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588239855991-k6il55fv3h9o1v9sbif70i2dlfqkjedq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1k1MLE7fg9N2jfjkDBWhdVaJBy5lXb30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588239855991-k6il55fv3h9o1v9sbif70i2dlfqkjedq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
